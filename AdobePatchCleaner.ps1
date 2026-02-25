@@ -1,5 +1,10 @@
 # Adobe Patch Cleaner - Windows\Insteller
 <#
+Date: 20260226
+
+Credit: @Marcel/Selfman via PDQ Server
+
+
 Removes old .MSP files - older than 30 days (editable)
 Based on Subject Signer property of file
 
